@@ -18,19 +18,19 @@ function App() {
   
   return (
     <Router>
-      <Navbar />
+      <Navbar/>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/service" element={<Service />} />
-        <Route path="/smart-home" element={<Smart_Home />} />
-        <Route path="/project" element={<Project />} />
-        <Route path="/certificate" element={<Certificate />} />
-        <Route path="/clients" element={<Clients />} />
-        <Route path="/media" element={<Media />} />
-        <Route path="/contact-us" element={<Contact_Us />} />
+        <Route path="/" element={<Home/>} />
+        <Route path="/about" element={<About/>} />
+        <Route path="/service" element={<Service/>}/>
+        <Route path="/smart-home" element={<Smart_Home/>} />
+        <Route path="/project" element={<Project/>} />
+        <Route path="/certificate" element={<Certificate/>} />
+        <Route path="/clients" element={<Clients/>}/>
+        <Route path="/media" element={<Media/>} />
+        <Route path="/contact-us" element={<Contact_Us/>} />
       </Routes>
-      <Footer />
+      <Footer/>
     </Router>
   )
 }
