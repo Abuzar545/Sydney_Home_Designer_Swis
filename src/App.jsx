@@ -1,5 +1,5 @@
 
-import Home from './pages/Home';
+import Home from './Pages/Home';
 import About from './Pages/About';
 import Services from './Pages/Service';
 import Smart_Home from './Pages/Smart_Home';
