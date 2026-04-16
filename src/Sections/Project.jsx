@@ -4,7 +4,7 @@ import Abou_img from '../assets/images/abou_img.jpg'
  import Home_Design from '../assets/images/Home_Design_img.jpg'
  import Service_img1 from "../assets/images/Service_img1.jpg";
  import Service_img3 from "../assets/images/Service_img3.jpg";
- import Service_img4 from "../assets/images/Abou_img.jpg";
+
  import Service_img5 from "../assets/images/heroimg.jpg";
  import { ArrowRight, CaretLeft, CaretRight } from "@phosphor-icons/react";
 
@@ -13,13 +13,13 @@ export default function Project() {
     { title: "PROJECT NAME", image: Abou_img},
     { title: "PROJECT NAME", image: Service_img1 },
     { title: "PROJECT NAME", image: Service_img3 },
-    { title: "PROJECT NAME", image: Service_img4},
+     { title: "PROJECT NAME", image: Abou_img},
     { title: "PROJECT NAME", image: Home_Design},
     { title: "PROJECT NAME", image: Service_img5},
     { title: "PROJECT NAME", image: Abou_img},
     { title: "PROJECT NAME", image: Service_img1 },
     { title: "PROJECT NAME", image: Service_img3 },
-    { title: "PROJECT NAME", image: Service_img4},
+     { title: "PROJECT NAME", image: Abou_img},
     { title: "PROJECT NAME", image: Home_Design},
     { title: "PROJECT NAME", image: Service_img5}
   ];
