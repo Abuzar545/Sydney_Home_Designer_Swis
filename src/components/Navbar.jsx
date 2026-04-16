@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import images from '../assets/icons/images.png'
 import { ArrowRight } from '@phosphor-icons/react'
 import { MailOpen, Phone, Menu, X } from 'lucide-react';
-import Twitter from '../assets/icons/twitter.png'
+import Twitter from '../assets/icons/Twitter.png'
 import insta from '../assets/icons/insta.png'
 import whatsapp from '../assets/icons/whatsapp.png'
 import youtube from '../assets/icons/youtube.png'
