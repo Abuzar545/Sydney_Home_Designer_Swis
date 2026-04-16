@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
 import Service from './pages/Service';
+// save it
 import Smart_Home from './pages/Smart_Home';
 import Project from './pages/Project';
 import Certificate from './pages/Certificate';
