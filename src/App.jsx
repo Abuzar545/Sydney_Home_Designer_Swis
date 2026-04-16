@@ -10,6 +10,7 @@ import Certificate from './pages/Certificate';
 import Clients from './pages/Clients';
 import Media from './pages/Media'
 import Contact_Us from './pages/Contact_Us';
+import Services from './Sections/Services';
 
 
 function App() {
@@ -20,7 +21,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/about" element={<About/>} />
-        <Route path="/service" element={<Service/>}/>
+        <Route path="/services" element={<Services/>}/>
         <Route path="/smart-home" element={<Smart_Home/>} />
         <Route path="/project" element={<Project/>} />
         <Route path="/certificate" element={<Certificate/>} />
