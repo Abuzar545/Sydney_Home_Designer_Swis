@@ -11,15 +11,15 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Home from './pages/Home';
-import About from './pages/About';
-import Services from './pages/Service';
-import Smart_Home from './pages/Smart_Home';
-import Project from './pages/Project';
-import Certificate from './pages/Certificate';
-import Clients from './pages/Clients';
-import Media from './pages/Media';
-import Contact_Us from './pages/Contact_Us';
+import Home from './Pages/Home';
+import About from './Pages/About';
+import Services from './Pages/Service';
+import Smart_Home from './Pages/Smart_Home';
+import Project from './Pages/Project';
+import Certificate from './Pages/Certificate';
+import Clients from './Pages/Clients';
+import Media from './Pages/Media';
+import Contact_Us from './Pages/Contact_Us';
 
 function App() {
   
