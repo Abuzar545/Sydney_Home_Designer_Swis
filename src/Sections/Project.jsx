@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from "react";
-import Abou_img from '../assets/images/abou_img.jpg'
+import Abou_img from '../assets/images/Abou_img.jpg'
  import Home_Design from '../assets/images/Home_Design_img.jpg'
  import Service_img1 from "../assets/images/Service_img1.jpg";
  import Service_img3 from "../assets/images/Service_img3.jpg";
