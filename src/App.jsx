@@ -1,17 +1,16 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-
-
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Home from './Pages/Home.jsx';
-import About from './Pages/About.jsx';
-import Service from './Pages/Service.jsx';
-import Smart_Home from './Pages/Smart_Home.jsx';
-import Project from './Pages/Project.jsx';
-import Certificate from './Pages/Certificate.jsx';
-import Clients from './Pages/Clients.jsx';
-import Media from './Pages/Media.jsx';
-import Contact_Us from './Pages/Contact_Us.jsx';
+import Home from './pages/Home';
+import About from './pages/About';
+import Service from './pages/Service';
+import Smart_Home from './pages/Smart_Home';
+import Project from './pages/Project';
+import Certificate from './pages/Certificate';
+import Clients from './pages/Clients';
+import Media from './pages/Media'
+import Contact_Us from './pages/Contact_Us';
+
 
 function App() {
   
