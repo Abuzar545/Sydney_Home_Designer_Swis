@@ -56,7 +56,8 @@ export default function States() {
           {statsData.map((stat, index) => (
             <div key={index} className="flex flex-col items-center text-center">
               
-              <div className="text-7xl lg:text-8xl xl:text-9xl font-extrabold text-[#48AAB5] mb-4 font-mono flex items-baseline ">
+              <div className="text-7xl lg:text-8xl xl:text-8xl font-bold text-[#48AAB5]
+               mb-4 font-mono flex items-baseline ">
                 <AnimatedCounter
                   target={stat.number}
                   suffix={stat.suffix}
